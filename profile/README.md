@@ -105,11 +105,10 @@
 <br>
 
 
-
 ## 느낀점
 ### 박수현
 8개월이라는 긴 시간 동안 기획부터 복잡한 실시간 기술 구현, 그리고 배포까지 팀원들과 함께 성공적으로 완성할 수 있어 뜻깊었다. 
-포기하지 않고 끊임없이 도전하고 소통하며 문제를 해결해 나간 과정 자체가 가장 큰 배움이었다. 
+포기하지 않고 끊임없이 도전하고 소통하며 문제를 해결해 나간 과정 자체가 가장 큰 배움이었다. 
 <br>
 
 ### 김규한
@@ -127,8 +126,12 @@ Node.js와 WebSocket을 활용하여 실시간 서버를 구현하면서 다양�
 
 ## 자료 다운로드
 **Poster** : [poster 다운로드](https://github.com/DMU-CMM-Final/main/raw/refs/heads/main/poster%20%ED%98%95%EC%8B%9D%20ppt/poster.pptx)<br>
-**프로젝트 계획서** : [계획서 다운로드](https://github.com/DMU-CMM-Final/main/blob/main/%EC%A0%9C%EC%95%88%EC%84%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B6%84%EC%84%9D%EC%84%A4%EA%B3%84_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_CMM_%EC%8B%A4%EC%8B%9C%EA%B0%84%ED%98%91%EC%97%85%ED%94%8C%EB%9E%AB%ED%8F%BC(BlankSync).pdf)
+**프로젝트 계획서** : [계획서 다운로드](https://github.com/DMU-CMM-Final/main/blob/main/%EC%A0%9C%EC%95%88%EC%84%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B6%84%EC%84%9D%EC%84%A4%EA%B3%84_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_CMM_%EC%8B%A4%EC%8B%9C%EA%B0%84%ED%98%91%EC%97%85%ED%94%8C%EB%9E%AB%ED%8F%BC(BlankSync).pdf)<br>
+**프론트 코드** : [front](https://github.com/DMU-CMM-Final/front)<br>
+**노드서버 코드** : [node](https://github.com/DMU-CMM-Final/node)<br>
+**스프링서버 코드** : [spring](https://github.com/DMU-CMM-Final/spring)<br>
 <br><br>
 
 🐙 GitHub: <a href="https://github.com/DMU-CMM-Final" >@DMU_CMM_Final </a> <br>
 🗂 Notion: <a href="https://www.notion.so/1adf95c37f3c809d8403e7917c7367fd? v=1adf95c37f3c814f83b7000cd48043a9&source=copy_link" target="_blank">@CMM</a><br>
+
