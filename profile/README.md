@@ -1,6 +1,6 @@
 2025 동양미래대학교 컴퓨터소프트웨어공학과 CMM
 <h1 align="left">
-  <img src="images/start.png" width="50" height="50" style="vertical-align: middle; margin-right: 10px;">
+  <img src="images/start.png" width="90" height="80" style="vertical-align: middle; margin-right: 10px;">
   실시간 원격 협업 플랫폼 BlankSync
 </h1>
 
