@@ -128,9 +128,9 @@ Node.js와 WebSocket을 활용하여 실시간 서버를 구현하면서 다양�
 <br><br>
 
 ## 📩 자료 다운로드
-**브로셔** : [브로셔 다운로드]
-**Poster** : [poster 다운로드](https://github.com/DMU-CMM-Final/main/raw/refs/heads/main/poster%20%ED%98%95%EC%8B%9D%20ppt/poster.pptx)<br>
-**프로젝트 계획서** : [계획서 다운로드](https://github.com/DMU-CMM-Final/main/blob/main/%EC%A0%9C%EC%95%88%EC%84%9C/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B6%84%EC%84%9D%EC%84%A4%EA%B3%84_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_CMM_%EC%8B%A4%EC%8B%9C%EA%B0%84%ED%98%91%EC%97%85%ED%94%8C%EB%9E%AB%ED%8F%BC(BlankSync).pdf)<br>
+**브로셔** : [브로셔 다운로드](https://github.com/DMU-CMM-Final/.github/raw/refs/heads/main/profile/data/2025%20%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88%EC%A7%91_%EC%BB%B4%EC%86%8C_D_CMM.hwp)<br>
+**Poster** : [poster 다운로드](https://github.com/DMU-CMM-Final/.github/raw/refs/heads/main/profile/data/poster.pptx)<br>
+**프로젝트 계획서** : [계획서 다운로드](https://github.com/DMU-CMM-Final/.github/blob/main/profile/data/%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C_CMM_%EC%8B%A4%EC%8B%9C%EA%B0%84%ED%98%91%EC%97%85%ED%94%8C%EB%9E%AB%ED%8F%BC(BlankSync).pdf)<br>
 **프론트 코드** : [front](https://github.com/DMU-CMM-Final/front)<br>
 **노드서버 코드** : [node](https://github.com/DMU-CMM-Final/node)<br>
 **스프링서버 코드** : [spring](https://github.com/DMU-CMM-Final/spring)<br>
