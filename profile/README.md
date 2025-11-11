@@ -1,11 +1,11 @@
 2025 동양미래대학교 컴퓨터소프트웨어공학과 CMM
-# <div align="center"><img src="images/start.png" width="50" height="00"><br></div>실시간 원격 협업 플랫폼 BlankSync
+# 실시간 원격 협업 플랫폼 BlankSync
 <div align="center">
  <img src="images/start.png" width="500" height="400"><br>
 </div>
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=CCE6FF&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
-</p>
+</p>-->
 
 ## 🛠️ 프로젝트 개요
 <div align="center">
