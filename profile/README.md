@@ -1,4 +1,4 @@
-2025 동양미래대학교 컴퓨터소프트웨어공학과 CMM
+2025 동양미래대학교 컴퓨터소프트웨어공학과 CMM <br>
 <a href="https://blanksync.o-r.kr/" >
 <img src="https://img.shields.io/badge/BlankSync-CCE6FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="BlankSync 서비스 접속 버튼">
   </a>
