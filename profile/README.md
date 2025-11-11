@@ -2,7 +2,6 @@
 # 실시간 원격 협업 플랫폼 BlankSync
 <div align="center">
   <h1 align="center">
-    <img src="images/logo.png" alt="BlankSync 로고" width="50" height="50" style="vertical-align: middle; margin-right: 10px;">
     실시간 원격 협업 플랫폼 BlankSync
   </h1>
 
