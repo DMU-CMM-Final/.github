@@ -3,6 +3,11 @@
   <img src="images/start.png" width="90" height="80" style="vertical-align: middle; margin-right: 10px;">
   실시간 원격 협업 플랫폼 BlankSync
 </h1>
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=CCE6FF&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
+
+</p>
 
 ## 🛠️ 프로젝트 개요
 <div align="center">
