@@ -58,17 +58,17 @@
 <img src="images/other.png" width="700" height="400" >
 </div>
 
-## 🕸️시스템 구성도
+## 🕸️ 시스템 구성도
 <div align="center">
  <img src="images/arch.png" width="600" height="400">
  </div>
 
-## 🧬ERD
+## 🧬 ERD
 <div align="center">
  <img src="images/erd.png" width="700" height="400">
  </div>
 
-## 👾주요 기능
+## 👾 주요 기능
 <div align="center">
  <img src="images/stack1.png" width="700" height="400">
  <img src="images/stack2.png" width="700" height="400">
