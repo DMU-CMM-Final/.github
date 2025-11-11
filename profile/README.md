@@ -6,7 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=CCE6FF&height=300&section=header&text=Blanck%20Sync&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
 
 </p>
-
+<a href="https://blanksync.o-r.kr/" target="_blank">
+    <img src="https://img.shields.io/badge/서비스_바로_가기-007FFF?style=for-the-badge&logo=vercel&logoColor=white" alt="BlankSync 서비스 접속 버튼">
+  </a>
 ## 🛠️ 프로젝트 개요
 <div align="center">
  <img src="images/info.png" width="700" height="400"><br>
